@@ -4,3 +4,6 @@ c
 c++
 AI
 machine learning
+data sci
+engineering 
+maths
